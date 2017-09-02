@@ -1,0 +1,7 @@
+<h1>
+	{{title}}
+</h1>
+<mc-start-button [xDimen]="9"  [yDimen]="9"  [mines]="10" (start)="start($event)"></mc-start-button>
+<mc-start-button [xDimen]="16" [yDimen]="16" [mines]="40" (start)="start($event)"></mc-start-button>
+<mc-start-button [xDimen]="30" [yDimen]="16" [mines]="99" (start)="start($event)"></mc-start-button>
+<mc-field *ngIf="field" [field]="field"></mc-field>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HaskellBuildOptions">
+    <ghcPath>C:\Program Files\Haskell Platform\7.10.3\bin\ghc.exe</ghcPath>
+    <cabalPath>C:\Program Files\Haskell Platform\7.10.3\lib\extralibs\bin\cabal.exe</cabalPath>
+    <stackPath>C:\Users\Jendrik Wenke\AppData\Roaming\cabal\bin\stack.exe</stackPath>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="A:/Projekte/Activator/play-scala" value="1463748006252" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaCompilerConfiguration">
+    <option name="featureWarnings" value="true" />
+    <option name="explainTypeErrors" value="true" />
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="collectionTypeHighlightingLevel" value="2" />
+    <option name="implicitParametersSearchDepth" value="1" />
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="UnicodeBrowser">
+    <option name="fontName" value="Fira Code Medium" />
+  </component>
+</project>

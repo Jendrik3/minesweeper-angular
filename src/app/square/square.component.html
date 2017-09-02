@@ -1,0 +1,6 @@
+<div class="flex" [class.revealed]="square.revealed" [class.mine]="square.isMine">
+	<span *ngIf="square.revealed">
+		<span *ngIf="square.isMine">x</span>
+		<span *ngIf="!square.isMine && square.count !== 0">{{square.count}}</span>
+	</span>
+</div>
